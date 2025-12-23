@@ -1,3 +1,3 @@
 ## QR Code
 
-![QR](qr_code.png)
+![QR](qr code.png)
